@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 2px;
+    background-color: rgb(101, 216, 130);
+    border-color: blueviolet;
+
+}
+
+.caja1{
+    border-color: darkblue;
+    border-color: rgb(255, 255, 255);
+    background-color: aqua;
+    border-style: solid;
+    height: 500px;
+}
+
+.caja2 {
+    background-color: brown;
+    border-color: rgb(255, 255, 255);
+    height: 500px;
+    border-style: solid;
+}
+.caja3 {
+    background-color: coral;
+    border-color: rgb(255, 255, 255);
+    height: 500px;
+    border-style: solid;
+}
+
+.caja4 {
+    background-color: pink;
+    border-color: rgb(255, 255, 255);
+    height: 500px;
+    border-style: solid;
+
+}
